@@ -1,0 +1,30 @@
+{
+    "lessons": [
+        "0-overview",
+        "1-understanding the role of an engineering manager",
+        "2-the engineering managers career path",
+        "3-an introduction to the interview loop",
+        "4-the em loop in prominent tech companies",
+        "5-em loop tech screen coding interview",
+        "6-em loop problem solving and design interview",
+        "7-em loop the tech deep dive interview",
+        "8-em loop the management interview",
+        "9-problem patterns",
+        "10-prepare your story bank",
+        "11-response structure the star format",
+        "12-how do you structure your 1 1s",
+        "13-how do you manage low performers",
+        "14-have you ever fired a low performer",
+        "15-how do you manage top performers",
+        "16-how do you hire talent",
+        "17-give an example of when you had to handle conflict within the team",
+        "18-how do you define your project and team goals",
+        "19-have you ever missed project goals",
+        "20-how do you plan a project that involves multiple teams",
+        "21-how do you balance feature development and technical debt",
+        "22-how do you discuss engineering limitations with customers",
+        "23-did you ever have to conform to a decision you didn t agree with",
+        "24-how do you get people to accept your point of view",
+        "25-summary and conclusion"
+    ]
+}
